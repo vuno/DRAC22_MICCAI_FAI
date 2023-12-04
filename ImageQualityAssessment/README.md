@@ -16,7 +16,7 @@ sh run_task2.sh
 ```
 
 #### Create a file for submission with our pre-trained models
-1. Download pre-trained models : [LINK](https://drive.google.com/drive/folders/1TdbWnBwxadpgyzZ7R9NIB0JuTt2m-iIx?usp=sharing)
+1. Download pre-trained models : [LINK](https://drive.google.com/drive/folders/1mHUd-XVGoL9uQzZvJ2knfb4M0d1aSsWy?usp=sharing)
 2. Run 'create_submission_file.py'
 ```bash
 python create_submission_file.py --model_dir <model_dir> --data_dir <data_dir> --tta
