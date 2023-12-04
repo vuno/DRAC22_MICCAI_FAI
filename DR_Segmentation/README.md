@@ -22,7 +22,7 @@ python train.py --gpu_id {GPU_ID} --target 3
 ```
 
 #### Evaluation with pre-trained models
-1. Download pre-trained models : [LINK](https://vunocorp-my.sharepoint.com/:f:/g/personal/jaeyoung_kim_vuno_co/EqbdOLqSRWJOjGGUQm9HPUkBgwVFWg1mLyPHgS9wRWXMfQ?e=HuQsqv)
+1. Download pre-trained models : [LINK](https://drive.google.com/drive/folders/1Ng9mdpl8gTZcCVLyOSRE8CP8AUzu_jna?usp=drive_link)
 2. Move the download folder to ~/DRAC22_FAI/DR_Segmentation/ckpt
 3. Run "evaluation_pretrained_model.py"
 
